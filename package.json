@@ -1,0 +1,14 @@
+{
+  "name": "mrrobot",
+  "version": "1.0.0",
+  "description": "Everyday helper to get back data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gmail"
+  ],
+  "author": "Maxime Vaude <maxime.vaude@gmail.com>",
+  "license": "WTFPL"
+}
