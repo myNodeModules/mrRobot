@@ -10,5 +10,9 @@
     "gmail"
   ],
   "author": "Maxime Vaude <maxime.vaude@gmail.com>",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^2.1.7"
+  }
 }
